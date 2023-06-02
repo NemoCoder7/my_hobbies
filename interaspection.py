@@ -1,12 +1,12 @@
-# print(issubclass.__doc__)
+# # print(issubclass.__doc__)
 
-class Shape:
-    pass
+# class Shape:
+#     pass
 
-class Circle(Shape):
+# class Circle(Shape):
     
-    def __init__(self, radius):
-        self.radius =  radius
+#     def __init__(self, radius):
+#         self.radius =  radius
 
-circle = Circle(10)
-print(issubclass(Circle, Shape))
+# circle = Circle(10)
+# print(issubclass(Circle, Shape ))
